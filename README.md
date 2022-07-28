@@ -1,16 +1,8 @@
-# flutter_map_example
+assalomaleykum
+flutter map ni ishlatish uchun android da xam ios da xam qoshimchalar qo'shish shart emas 
 
-A new Flutter project.
+flutter map ishlashi uchun pubspec.yaml da dependencies ichida flutter_map, latlong2 package larini ishlatish ozi kifoya qiladi
+sliding_up_pannel orqali modalbottomsheet ni defaut pasdan chiqib turadigan qldim
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter_map ning maximal funksionalini ishlatmadim
+faqatgina ozimga kerak bolgan markerlarni generate qlishdan foydalandim
